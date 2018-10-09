@@ -1,7 +1,7 @@
 # Portfolio Project
 
 ### By Becca Mongeon
-[view here](portfolio/index.html)
+[view here](https://rmongeon.github.io/portfolio/)
 
 This project was required to have specific qualities. Some of the key qualities were
 * Show a basic understanding of HTML5 & CSS
