@@ -4,8 +4,7 @@
   grid-template-columns: 100%;
   grid-template-rows: 33% 33% 33%;
   width: 80%;
-}
-
+  }
 }
 
 @media screen and (min-width:601px) and (max-width:949px){
@@ -13,7 +12,8 @@
   grid-template-columns: 50% 50%;
   grid-template-rows: 33% 33%;
   width: 80%;
-}
+  }
+  
   #proj3 {
     grid-column-start:1;
     grid-column-end:3;
@@ -24,10 +24,10 @@
   h1 {
     font-size:30px;
   }
+  
   h3 {
     font-size:22px;
-  }
- 
+  } 
   
   .logo_left{
     max-width:120px;
