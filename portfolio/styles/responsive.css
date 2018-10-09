@@ -5,6 +5,15 @@
   grid-template-rows: 33% 33% 33%;
   width: 80%;
   }
+
+  h1,
+  h3 {
+    font-size: 16px;
+  }
+
+  .name {
+    width: 60%;
+  }
 }
 
 @media screen and (min-width:601px) and (max-width:949px){
@@ -13,25 +22,25 @@
   grid-template-rows: 33% 33%;
   width: 80%;
   }
-  
+
   #proj3 {
-    grid-column-start:1;
-    grid-column-end:3;
+    grid-column-start: 1;
+    grid-column-end: 3;
   }
 }
 
 @media screen and (min-width:950px){
   h1 {
-    font-size:30px;
+    font-size: 30px;
   }
-  
+
   h3 {
-    font-size:22px;
-  } 
-  
+    font-size: 22px;
+  }
+
   .logo_left{
-    max-width:120px;
-    max-height:120px;
+    max-width: 120px;
+    max-height: 120px;
   }
 }
 
